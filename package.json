@@ -1,0 +1,18 @@
+{
+  "name": "full.db",
+  "version": "1.4.0",
+  "description": "Created By MODLOFF and Root",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "full.db",
+    "modloffdb",
+    "rootdb",
+    "discorddatabase",
+    "database"
+  ],
+  "author": "MODLOFF",
+  "license": "ISC"
+}
